@@ -4,9 +4,6 @@ The React component for building the composite filter criteria
 
 [Demo](https://codesandbox.io/s/4xk994jovw)
 
-## Overview
-![Filter Control](https://github.com/bitgo-zpucci/react-filter-control/raw/master/static/filter-control.png)
-
 ## Installation
 npm
 ```sh
